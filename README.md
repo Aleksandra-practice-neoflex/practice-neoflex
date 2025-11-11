@@ -1,9 +1,11 @@
 # онлайн калькулятор neoflex
 
-![swagger-screenshot1.png](https://github.com/user-attachments/assets/b4794346-42c7-4077-a0b8-a2664cd17f38)
+![swagger-screenshot1](https://github.com/user-attachments/assets/b4794346-42c7-4077-a0b8-a2664cd17f38)
 
 
-<img width="1280" height="622" alt="swagger-screenshot-2" src="https://github.com/user-attachments/assets/53969a00-cb8b-44fe-ada3-1dc74b82490a" />
+![swagger-screenshot2-plus](https://github.com/user-attachments/assets/387e01b9-32c6-4e91-8d45-cef77192f86e)
 
 
-![swagger-minus png](https://github.com/user-attachments/assets/9690a1d9-19b7-4762-9aec-6f5ced9777f9)
+
+![swagger-screenshot3-minus](https://github.com/user-attachments/assets/629590c5-f58c-4c98-bda8-06ce9be0a31e)
+
